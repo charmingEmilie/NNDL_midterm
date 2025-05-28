@@ -44,4 +44,4 @@ bash tools/dist_train.sh config/CUSTOM/sparse.py 4
 CUDA_VISIBLE_DEVICES=0 python tools/visualize_infer_sparse.py
 CUDA_VISIBLE_DEVICES=0 python tools/visualize_infer_mask.py
 CUDA_VISIBLE_DEVICES=0 python tools/vis_proposal.py
-```
+``` 
